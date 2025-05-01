@@ -9,10 +9,7 @@ This project demonstrates various data cleaning and transformation techniques fo
 
 ## Project Structure
 ```
-├── product_reviews.csv                 # Raw dataset
-├── product_reviews_basic_clean.csv     # Dataset after basic cleaning
-├── product_reviews_advanced_clean.csv  # Dataset after advanced cleaning
-├── nlp_data_cleaning_project.ipynb     # Main Jupyter notebook with all code
+├── nlp_data_cleaning_project.py     # Main Jupyter notebook with all code
 ├── README.md                           # Project documentation
 └── visualizations/                     # Folder containing generated visualizations
     ├── missing_values.png
@@ -175,3 +172,6 @@ jupyter notebook nlp_data_cleaning_project.ipynb
 - Brownlee, J. (2020). *Data Preparation for Machine Learning*
 - Manning, C., Raghavan, P., & Schütze, H. (2008). *Introduction to Information Retrieval*
 - VanderPlas, J. (2016). *Python Data Science Handbook*
+
+
+## Made By : Aya SDOUR
