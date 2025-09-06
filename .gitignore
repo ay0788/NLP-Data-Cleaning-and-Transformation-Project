@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data and outputs
+data/
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.db
+*.sqlite
+*.parquet
+
+# Environment files
+.env
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Visualizations
+visualizations/
+
+# OS files
+.DS_Store
+
+# Other
+*.log
