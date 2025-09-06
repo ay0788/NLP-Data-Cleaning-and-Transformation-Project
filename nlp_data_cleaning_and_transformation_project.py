@@ -9,23 +9,6 @@ Original file is located at
 NLP Data Cleaning and Transformation Project
 =============================================
 
-Group Name: TextInsight Analytics
-
-
-Member: Aya SDOUR
-
-
-Email: sdouraya3@gmail.com
-
-
-Country: morocco
-
-
-College/Company: esi rabat
-
-
-Specialization: NLP and Data Science
-
 Problem Description:
 This project aims to analyze and extract insights from a dataset of product reviews.
 The main goal is to apply various data cleaning and transformation techniques to handle missing values,
